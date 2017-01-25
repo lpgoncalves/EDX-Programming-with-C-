@@ -1,0 +1,1 @@
+B:\LP\Projetos\Edx.ConsoleApplication\Edx.ConsoleApplication\bin\Debug\Edx.ConsoleApplication.exe.config

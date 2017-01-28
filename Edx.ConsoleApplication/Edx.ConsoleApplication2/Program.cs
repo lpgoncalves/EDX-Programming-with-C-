@@ -10,21 +10,29 @@ namespace Edx.ConsoleApplication2
     {
         public static void Main(string[] args)
         {
-            string chessBoard;
+             #if Debug
+                Console.WriteLine("----LP-----");
 
-            for (int i = 0; i < 8; i++)
-            {
-                chessBoard = i % 2 == 0 ? "X" : "O";
+                string chessBoard;
 
-                for (int j = 0; j < 7; j++)
+                for (int i = 0; i < 8; i++)
                 {
-                    chessBoard = string.Format("{0}{1}", chessBoard, chessBoard[j] == 'O' ? "X" : "O");
+                    chessBoard = i % 2 == 0 ? "X" : "O";
+
+                    for (int j = 0; j < 7; j++)
+                    {
+                        chessBoard = string.Format("{0}{1}", chessBoard, chessBoard[j] == 'O' ? "X" : "O");
+                    }
+
+                    Console.WriteLine(chessBoard);
                 }
 
-                Console.WriteLine(chessBoard);
-            }
+                Console.ReadKey();
+            #else
+                OthersProgram.MainTwo(null);
+            #endif
 
-            Console.ReadKey();
+
         }
     }
 }

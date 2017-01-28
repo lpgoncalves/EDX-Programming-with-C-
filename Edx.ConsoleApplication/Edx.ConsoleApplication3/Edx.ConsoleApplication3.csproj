@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>43891e01-26dc-420b-b2b4-17c059da561c</ProjectGuid>
+    <ProjectGuid>{51B8E465-B847-448B-B0B5-1F7F4BC0211A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Edx.ConsoleApplication3</RootNamespace>

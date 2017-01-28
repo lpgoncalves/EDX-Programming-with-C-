@@ -1,0 +1,6 @@
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\bin\Debug\Edx.ConsoleApplication1.exe.config
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\bin\Debug\Edx.ConsoleApplication1.exe
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\bin\Debug\Edx.ConsoleApplication1.pdb
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\obj\Debug\Edx.ConsoleApplication1.csprojResolveAssemblyReference.cache
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\obj\Debug\Edx.ConsoleApplication1.exe
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Edx.ConsoleApplication\obj\Debug\Edx.ConsoleApplication1.pdb

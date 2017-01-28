@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edx.ConsoleApplication", "Edx.ConsoleApplication\Edx.ConsoleApplication.csproj", "{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edx.ConsoleApplication1", "Edx.ConsoleApplication\Edx.ConsoleApplication1.csproj", "{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApplication", "ConsoleApplication", "{903F643B-4063-49BF-99A7-B3BF6E0EA2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edx.ConsoleApplication2", "Edx.ConsoleApplication2\Edx.ConsoleApplication2.csproj", "{F3AC823B-84E4-4945-AD40-C9EE9C3D302A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +19,16 @@ Global
 		{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AC823B-84E4-4945-AD40-C9EE9C3D302A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AC823B-84E4-4945-AD40-C9EE9C3D302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AC823B-84E4-4945-AD40-C9EE9C3D302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AC823B-84E4-4945-AD40-C9EE9C3D302A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B5F3FF0F-351B-4D21-84DD-C13887D2F4F1} = {903F643B-4063-49BF-99A7-B3BF6E0EA2A2}
+		{F3AC823B-84E4-4945-AD40-C9EE9C3D302A} = {903F643B-4063-49BF-99A7-B3BF6E0EA2A2}
 	EndGlobalSection
 EndGlobal

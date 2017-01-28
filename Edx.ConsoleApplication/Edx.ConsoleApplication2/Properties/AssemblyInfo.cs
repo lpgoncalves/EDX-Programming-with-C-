@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Edx.ConsoleApplication1")]
+[assembly: AssemblyTitle("Edx.ConsoleApplication2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Edx.ConsoleApplication1")]
+[assembly: AssemblyProduct("Edx.ConsoleApplication2")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c5617da3-867e-48d9-92cc-a162ff7b0443")]
+[assembly: Guid("66b15f49-3cfa-4a64-a7d2-3512329421f1")]
 
 // Version information for an assembly consists of the following four values:
 //

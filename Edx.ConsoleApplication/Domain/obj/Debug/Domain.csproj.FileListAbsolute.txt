@@ -1,0 +1,5 @@
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Domain\bin\Debug\Domain.dll
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Domain\bin\Debug\Domain.pdb
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Domain\obj\Debug\Domain.dll
+B:\LP\Projetos\Github\EDX - Programming with C#\Edx.ConsoleApplication\Domain\obj\Debug\Domain.pdb
